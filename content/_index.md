@@ -8,4 +8,4 @@ framed = true
 ---
 
 ### [Code Projects]({{< ref "code" >}})
-### [Music Examples]({{< ref "/music/index" >}})
+### [Music Examples]({{< ref "music" >}})

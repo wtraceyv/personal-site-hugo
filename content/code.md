@@ -8,3 +8,8 @@ Projects which may or may not display my skills and interests
 ### [dorkbash]({{< ref "code-projects/dorkbash.md" >}})
 ### [Harmony V]({{< ref "code-projects/harmonyv.md" >}})
 ### [Infile Refactor]({{< ref "code-projects/infilerefactor.md" >}})
+
+---
+## Tooling I have used
+
+{{< tooling_showoff >}}
