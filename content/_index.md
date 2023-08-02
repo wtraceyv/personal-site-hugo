@@ -7,6 +7,5 @@ framed = true
 
 ---
 
-### [Coding Projects]({{< ref "/code/index" >}})
+### [Code Projects]({{< ref "code" >}})
 ### [Music Examples]({{< ref "/music/index" >}})
-### A blog, jk not right now

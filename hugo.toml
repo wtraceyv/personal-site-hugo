@@ -30,7 +30,7 @@ paginate = 5
 [languages]
   [languages.en.params]
     title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    subtitle = "Walter's Portfolio"
     keywords = ""
     copyright = ""
     menuMore = "Show more"

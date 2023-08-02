@@ -1,4 +1,2 @@
-+++
-framed = true
-+++
 # Music Examples
+Hello there
