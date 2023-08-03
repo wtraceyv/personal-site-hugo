@@ -1,2 +1,5 @@
 # Pretty sure these are generated as it indicates
 resources/_gen
+
+# The public/ content is to be deployed elsewhere, not tracked here
+public/
