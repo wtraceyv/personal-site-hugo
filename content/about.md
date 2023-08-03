@@ -1,13 +1,13 @@
 # About
 
-I like music and programming. What more can I say?
+I'm Walter (the fifth). I like music and programming. What more can I say?
 
 > I work toward the best product possible by effectively planning,
 > progressing in thoughtful increments, and choosing the right tools from the beginning.
 > 
 > Every project is a learning opportunity.
 > 
-> I value efficiency and functionality over being modern and flashy.
+> I value efficiency, functionality, and honesty over modern and flashy.
 
 ---
 
@@ -16,3 +16,5 @@ I like music and programming. What more can I say?
 - UCHS, Liberty, IN -- Core 40 Honors 2017, Class Valedictorian
 
 #### [Full Resume](../resume.pdf)
+
+{{< social_links >}}

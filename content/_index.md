@@ -8,4 +8,6 @@ framed = true
 ---
 
 ### [Code Projects]({{< ref "code" >}})
-### [Music Examples]({{< ref "music" >}})
+
+
+{{< social_links >}}

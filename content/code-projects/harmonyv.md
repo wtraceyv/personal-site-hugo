@@ -7,3 +7,7 @@ There are many methods of pitch detection and shifting one could use, and the pl
 
 - C++
 - Juce audio framework
+
+---
+
+{{< github_link href="https://github.com/wtraceyv/HarmonyV" >}}
