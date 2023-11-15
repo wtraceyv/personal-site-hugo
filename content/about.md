@@ -12,8 +12,12 @@ I'm Walter (the fifth). I like music and programming. What more can I say?
 ---
 
 #### Education
-- Miami University, Oxford OH -- Computer Science B.S. (Honors) 2021, Magna Cum Laude
 - UCHS, Liberty, IN -- Core 40 Honors 2017, Class Valedictorian
+- Miami University, Oxford OH -- Computer Science B.S. (Honors) 2021, Magna Cum Laude
+
+#### Certs
+- AWS Certified Cloud Practitioner, November 2023-2026
+- AWS Cloud Developer - Associate, November 2023-2026
 
 #### [Full Resume](../resume.pdf)
 
